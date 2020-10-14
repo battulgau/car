@@ -1,0 +1,6 @@
+c:\users\gugu\documents\visual studio 2013\Projects\LAB01\LAB01\bin\Debug\LAB01.exe.config
+c:\users\gugu\documents\visual studio 2013\Projects\LAB01\LAB01\bin\Debug\LAB01.exe
+c:\users\gugu\documents\visual studio 2013\Projects\LAB01\LAB01\bin\Debug\LAB01.pdb
+c:\users\gugu\documents\visual studio 2013\Projects\LAB01\LAB01\obj\Debug\LAB01.csprojResolveAssemblyReference.cache
+c:\users\gugu\documents\visual studio 2013\Projects\LAB01\LAB01\obj\Debug\LAB01.exe
+c:\users\gugu\documents\visual studio 2013\Projects\LAB01\LAB01\obj\Debug\LAB01.pdb
